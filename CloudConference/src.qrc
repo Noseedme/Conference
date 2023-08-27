@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>score/1.png</file>
+        <file>score/2.wav</file>
+        <file>score/3.gif</file>
+        <file>score/style.qss</file>
+        <file>score/4.png</file>
+    </qresource>
+</RCC>
